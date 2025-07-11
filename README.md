@@ -2,4 +2,4 @@
 Thia is first Git Repository
 <br>
 <hr>
-Author-Riya
+Author-Riya Kumari
